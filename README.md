@@ -1,5 +1,5 @@
 # AWS-Sysops-Administrator
-For AWS Sysops Administrator Certification, You can refer the hands on tasks that can help you understand the services in more brief manner.
+For AWS Sysops Administrator Certification, You can refer the hands on tasks that can help you understand certain AWS services in more detail.
 ## Hands On Tasks 
 ### Domain 1 : Monitoring, Logging and Remediation
 **Task Statement 1.1:** ***Implement metrics, alarms, and filters by using AWS monitoring and logging services.*** 
